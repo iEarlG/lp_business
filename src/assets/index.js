@@ -12,7 +12,7 @@ import facebook from "./facebook.svg";
 import googlePlay from "./googlePlay.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
-import logo from "./logo.svg";
+import logo from "./Logo.svg";
 import menu from "./menu.svg";
 import people1 from "./people01.png";
 import people2 from "./people02.png";
