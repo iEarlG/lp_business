@@ -6,7 +6,7 @@ import binance from "./binance.png";
 import cards from "./cards.png";
 import close from "./close.svg";
 import coinbase from "./coinbase.png";
-import Discount from "./discount.svg";
+import Discount from "./Discount.svg";
 import dropbox from "./dropbox.png";
 import facebook from "./facebook.svg";
 import googlePlay from "./googlePlay.svg";
