@@ -20,7 +20,7 @@ help you find the information you need quickly and efficiently.
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
--[Copyrights](#copyrights)
+- [Copyrights](#copyrights)
 
 ## Overview
 
@@ -77,5 +77,5 @@ Thanks to StackOverFlow and Github they solved some of the problems that I faced
 
 ## Copyrights
 
-Copyright Ⓒ 2023 Earl A. Villapaz. All Rights Reserved **License**.
+- Copyright Ⓒ 2023 Earl A. Villapaz. All Rights Reserved **License**.
 
