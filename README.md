@@ -9,7 +9,7 @@ help you find the information you need quickly and efficiently.
 ## Table of contents
 
 - [Introduction](#introduction)
-  - [What is ZipHired](#what-is-hoobank)
+  - [What is HooBank](#what-is-hoobank)
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
